@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @htz305
+- 👋 Hi, I’m Heintz a front-end web developer
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on Html and CSS
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on Html and CSS, JV
 - 📫 How to reach me on twitter @heintzyjr
 
 <!---
